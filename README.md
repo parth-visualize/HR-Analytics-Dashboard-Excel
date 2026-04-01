@@ -1,7 +1,7 @@
 ## 📊 HR Analytics Dashboard (Excel)
 
 ## 📌 Project Overview
-- <img src="Screenshot 2026-03-31 213830.png" alt="Alt text for the image" width="desired_width">
+<img src="Screenshot 2026-03-31 213830.png" alt="Alt text for the image" width="desired_width">
 - This project presents an HR Analytics Dashboard built using Microsoft Excel.
 - The dashboard analyzes employee data to provide insights into attrition, workforce distribution, demographics, and job roles.
 - It helps demonstrate how Excel can be used for HR data analysis and interactive dashboard creation.
